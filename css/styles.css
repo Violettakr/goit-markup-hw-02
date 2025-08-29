@@ -116,15 +116,13 @@ body {
         align-items: center;
         flex-direction: column;
         text-align: center;
-
-
 }
 .logo-footer {
     font-family: "Raleway", sans-serif;
     width: 700;
     font-size: 18px;
     line-height: 21px;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
     color: #F4F4FD;
     text-decoration: none;
