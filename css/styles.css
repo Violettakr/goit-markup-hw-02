@@ -118,9 +118,9 @@ body {
 }
 .logo-footer {
     font-family: "Raleway", sans-serif;
-    width: 700;
+    font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5
@@ -128,4 +128,5 @@ body {
 }
 .logo-footer-accent {
     color: #F4F4FD ;
+    text-decoration: none;
 }
