@@ -1,7 +1,11 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #434455
     background-color: #ffffff;
+    color: #434455;
+    width: 1440px;
+    height: 3300px;
+    padding: 16px 8px;
+    border: 16px;
 }
 .logo {
     font-family: "Raleway", sans-serif;
