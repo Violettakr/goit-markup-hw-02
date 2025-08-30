@@ -121,12 +121,12 @@ body {
     font-family: "Raleway", sans-serif;
     width: 700;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.02em;
     text-transform: uppercase;
-    color: #F4F4FD;
+    color: #4D5AE5
     text-decoration: none;
 }
 .logo-footer-accent {
-    color: #4D5AE5 ;
+    color: #F4F4FD ;
 }
