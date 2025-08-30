@@ -5,21 +5,22 @@ body {
     width: 1440px;
     height: 3300px;
     padding: 16px 8px;
-    border: 16px;
+    border-bottom: 1px;
+    border:none ;
 }
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
+    line-h-spacing: 0.03em;
     text-transform: uppercase;
     color:#2E2F42;
     text-decoration: none;
 }
 
 .logo-accent {
-    color: #4D5AE5;
+    color: eight: 1.17;
+    letter#4D5AE5;
 }
 .nav-list{
     font-family: "Roboto", sans-serif ;
