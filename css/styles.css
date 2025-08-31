@@ -119,10 +119,19 @@ body {
         letter-spacing: 0.02em;
         color: #2E2F42;
     }
-    .team-list{
+    .team-item{
         background-color: #ffffff;
     }
     .team-role {
         line-height: 1.5;
         letter-spacing: 0.02em;
+    }
+    .portfolio-title {
+        font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color:#2e2f42;
+        
     }
