@@ -50,13 +50,13 @@ body {
 }
     .hero {
         background-color:#2e2f42;
-        font-size: 56px;
-        line-height: 1.07;
         text-align: center;
-        letter-spacing: 0.02em;
     }
     .hero-title {
         color: #ffffff;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em
     }
     .hero-button{
         background-color: #4d5ae5;
@@ -69,4 +69,7 @@ body {
     .hero-button:hover,
     .hero-button:focus {
         background-color: #404BBF;
+    }
+    ul {
+        list-style: none;
     }
