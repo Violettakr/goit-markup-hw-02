@@ -4,6 +4,8 @@ body {
     color: #434455;
 
     position: relative;
+    width: 1440px;
+    height: 3300px;
     left: 0;
     top: 0;
     box-sizing: border-box;
