@@ -3,3 +3,16 @@ body {
     background-color: #ffffff;
     color: #434455;
 }
+
+.logo {
+    font-family: "Releway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03;
+    text-transform: uppercase;
+    color: #4b5ae5;
+}
+.logo-accent {
+    color: #2E2F42;
+}
