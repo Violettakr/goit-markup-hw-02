@@ -57,4 +57,15 @@ body {
     }
     .hero-title {
         color: #ffffff;}
-        
+    .hero-button{
+        background-color: #4d5ae5;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04;
+        color: #ffffff;
+    }
+    .hero-button:hover,
+    .hero-button:focus {
+        background-color: ##404BBF;
+    }
