@@ -41,6 +41,9 @@ body {
     font-weight: 400;
     text-decoration: none;
 }
+.address-link:focus-child {
+    color: #2e2f42;
+}
 .address-link:hover,
 .address-link:focus {
     color: #404bbf;
